@@ -132,4 +132,7 @@ BACKEND -
 👤 Pravin Pawar
 
 👤 Shriya Pandey
+## To access the admin page
+email=tanuj@gmail.com
+password=Tanuj@1998
 
