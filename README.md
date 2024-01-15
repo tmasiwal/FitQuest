@@ -17,7 +17,7 @@ Buy Products: Explore an extensive selection of fitness products including prote
 
 ## Deployment Link
 
-[vercel](https://fitquest-indol.vercel.app/)
+[vercel](https://fitquestt.netlify.app/)
 
 ###
 
